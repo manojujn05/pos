@@ -13,8 +13,8 @@ Table of Contents
 7. Features
 8. User authentication and authorization
 9. CRUD operations for products, customers, and orders
-10.Dashboard with sales statistics and analytics
-11.Responsive user interface
+10. Dashboard with sales statistics and analytics
+11. Responsive user interface
 
 Installation
 To install and run this application locally, follow these steps:
