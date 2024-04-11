@@ -1,5 +1,6 @@
-# pos
-** Node.js POS Application **
+# POS
+**Node.js POS Application**
+
 * Point of Sale (POS) application built with Node.js, Express, and MongoDB. It allows users to manage products, customers, and orders. *
 
 Table of Contents
